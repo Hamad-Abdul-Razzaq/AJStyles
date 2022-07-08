@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## AJ Styles
 
 You can use the [editor on GitHub](https://github.com/Hamad-Abdul-Razzaq/AJStyles/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
